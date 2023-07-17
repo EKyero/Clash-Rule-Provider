@@ -270,5 +270,7 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf
   # > JMS
   - DOMAIN-SUFFIX,jmsooo.com
-  # > odysseyplus
+  # > Odysseyplus
   - DOMAIN-SUFFIX,odysseyplus.site
+  # > PiliPiliTv
+  - DOMAIN-SUFFIX,emby77.org
