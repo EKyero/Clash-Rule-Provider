@@ -5,11 +5,6 @@ payload:
  - DOMAIN-KEYWORD,Thunder
  - DOMAIN-KEYWORD,XLLiveUD
    # > Steam Download
- - DOMAIN-SUFFIX,steamcontent.com
- - DOMAIN-KEYWORD,dl.steam
- - DOMAIN-KEYWORD,steamcontent.tnkjmec
- - DOMAIN-KEYWORD,ssl.hwcdn.net
- - DOMAIN-KEYWORD,st.dl.pinyincloud.com
- - DOMAIN-KEYWORD,steampipe 
+ - DOMAIN-SUFFIX,steamserver.net
    # > BaiduYun Download 
  - DOMAIN-SUFFIX,baidupcs.com
