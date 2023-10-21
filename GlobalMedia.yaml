@@ -266,11 +266,9 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN,youtubei.googleapis.com
-  # > EMBY-WTF
+  # > EMBY
   - DOMAIN-SUFFIX,emby.wtf
-  # > JMS
   - DOMAIN-SUFFIX,jmsooo.com
-  # > Odysseyplus
   - DOMAIN-SUFFIX,odysseyplus.site
-  # > PiliPiliTv
   - DOMAIN-KEYWORD,pilipiliultra
+  - DOMAIN-SUFFIX,123456.al
