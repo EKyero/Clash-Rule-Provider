@@ -473,3 +473,6 @@ payload:
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,skype.com
+  # > Wechat FCM
+  - DOMAIN,short.weixin.qq.com
+  - DOMAIN,extshort.weixin.qq.com
