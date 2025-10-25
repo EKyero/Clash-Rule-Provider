@@ -12,3 +12,13 @@ payload:
  - DOMAIN,test.steampowered.com
    # > BaiduYun Download 
  - DOMAIN-SUFFIX,baidupcs.com
+   # > MicroSoft Download
+ - DOMAIN,assets1.xboxlive.cn
+ - DOMAIN,assets2.xboxlive.cn
+ - DOMAIN,d1.xboxlive.cn
+ - DOMAIN,d2.xboxlive.cn
+ - DOMAIN,dlassets.xboxlive.cn
+ - DOMAIN,dlassets2.xboxlive.cn
+ - DOMAIN,dl.delivery.mp.microsoft.com
+ - DOMAIN,tlu.dl.delivery.mp.microsoft.com
+ - DOMAIN,1d.tlu.dl.delivery.mp.microsoft.com
