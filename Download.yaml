@@ -6,5 +6,9 @@ payload:
  - DOMAIN-KEYWORD,XLLiveUD
    # > Steam Download
  - DOMAIN-SUFFIX,steamserver.net
+ - DOMAIN-SUFFIX,cm.steampowered.com
+ - DOMAIN-SUFFIX,steamstatic.com
+ - DOMAIN,api.steampowered.com
+ - DOMAIN,test.steampowered.com
    # > BaiduYun Download 
  - DOMAIN-SUFFIX,baidupcs.com
